@@ -10,3 +10,4 @@ Describe los pasos que debes realizar para subir un proyecto a GIT
 9. revertir y volver de commit a staged: git restore --staged <file>
 10. confirmar cambios: git commit -m"lo que sea"
 11. Desconfirnar cambios 
+bubalu
